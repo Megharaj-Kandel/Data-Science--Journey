@@ -1,0 +1,62 @@
+-> Data science combines the scientific method, math and statistics, specialized programming, advanced analytics, artificial intelligence (AI),
+   and even storytelling to uncover and explain the business insights buried in data.
+
+-> Data scientists use methodologies that include processes or activities to perform to obtain results. 
+   The methodologies are scientific, so the key is that they are repeatable.
+
+-> Three widely used data science methodologies are: Cross-Industry Standard Process for Data Mining (CRISP-DM),
+   Knowledge Discovery in Database (KDD), and Sample Explore, Modify, Model, and Assess (SEMMA)
+
+-> 1. CRISP-DM (Cross-Industry Standard Process for Data Mining)
+  A six-phase iterative process focused on solving business problems through data mining:
+  Phases: Business Understanding → Data Understanding → Data Preparation → Modeling → Evaluation → Deployment
+  Widely used, flexible, and tool-independent.
+
+->  2. KDD (Knowledge Discovery in Databases)
+  A broad framework for extracting useful patterns from data.
+  Steps: Selection → Preprocessing → Transformation → Data Mining → Interpretation/Evaluation
+  Focuses on turning raw data into knowledge, often used in academic research.
+
+-> 3. SEMMA (Sample, Explore, Modify, Model, Assess)
+  Developed by SAS, focused on technical tasks of data mining.
+  Steps:
+
+   Sample: Select a representative dataset
+
+   Explore: Visualize and discover patterns
+
+   Modify: Transform variables
+
+   Model: Apply algorithms
+
+   Assess: Evaluate model performance
+  🔬 More model-centric, used mostly with structured data.
+
+-> Key activities that take place during a data science project are:
+
+   Business understanding
+   Data exploration and preparation
+   Data representation and transformation
+   Data visualization and presentation
+   Train data models
+   Deploy data models
+
+-> Those who work in data science use technologies and tools to build models.
+   The models are used to predict outcomes or discover underlying patterns. 
+   The intent is to gain insights that lead to actions that improve future outcomes.
+
+-> Data scientists use machine learning to train models. Machine learning is essentially teaching a computer to solve problems.
+   It allows a machine to learn from data without programming it with rules. The machine can learn from the data it’s given.
+
+-> Data science is a team effort! Data analysts, data scientists, and data engineers collaborate to solve business problem
+
+
+
+
+
+
+
+
+
+
+
